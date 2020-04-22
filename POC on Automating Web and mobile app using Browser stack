@@ -1,0 +1,15 @@
+POC on Automating Web and mobile app using Browser stack:
+
+	1. Understanding browsersatck and how its working - Completed
+	2. Created account and understand automation, live, App Automate process - Completed
+	3. Understanding local-tetsing - Completed
+	4. Created some sample web and mobile scripts which will run from our machine to Browserstack - Compeletd
+	5. Loading local application from downloaded (sample - https://startbootstrap.com/templates/sb-admin/) template to check the local server testing.
+		* Created local testing environment and executed the code
+		* Executed Web, Mobile and local testing by running the local server
+
+Con's:
+	1. For live automation we have ony 100 min (each session will run only once) i.e: if we run "Windows 10 - Chrome 80" Just one minite we can run the session and automatically the session will get closed.
+	2. To proceed further we need to buy a plan which cost minimum $29/Month 
+	3. For parallel testing which is highlight of the browserstack will only comes with the above plan
+	4. Each time we run the application via BrowserStack the time counts.
