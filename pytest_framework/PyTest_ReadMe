@@ -1,0 +1,26 @@
+PyTest Understanding:
+
+Intall pytest package - pip3 install pytest
+
+
+
+Pytest Naming Conventions
+
+* File names should start or end with “test”, as in test_example.py or example_test.py
+* Class name should start with “Test”, as in TestExample
+* Test method names should start with “test_”, as in test_example
+
+Advantage over unittest:
+1. No just one startup (i.e. setUp funtion) we can use fixtures(@pytest.fixture()) to execute before and after function
+2. @pytest.mark.run(order=2) help to run test in order - http://pytest-ordering.readthedocs.io/en/develop/
+3. pytest addoption will let us give arguments from command line
+
+Execution option:
+	py.test test_mod.py   # run tests in module
+	py.test somepath      # run all tests below somepath
+	py.test test_module.py::test_method  # only run test_method in test_module
+
+	-s to print statements
+	-v verbose
+
+	* Mac having advantage of using "*" charecter to run multiple files 
