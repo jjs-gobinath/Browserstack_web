@@ -1,21 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e3514dc-914d-4635-aaf9-a204969755cd" name="Default Changelist" comment="" />
+    <list default="true" id="5e3514dc-914d-4635-aaf9-a204969755cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automation.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/custom_logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/home/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/home/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/test_status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/selenium_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/selenium_driver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/webdriverfactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/webdriverfactory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Home/login_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/home/login_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/teststatus.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1bRMZDk0EbNseL9E1K70FwqVPtq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/utilities" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/utilities" />
+      <recent name="$PROJECT_DIR$/tests/home" />
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/pages/home" />
+      <recent name="$PROJECT_DIR$/pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/utilities" />
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/base" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for login_tests.LoginTests.test_validLogin">
+    <configuration name="pytest for login_tests.LoginTests" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="unittest_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login_tests.LoginTests&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for login_tests.LoginTests.test_validLogin" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="unittest_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login_tests.LoginTests.test_validLogin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests.home.login_tests.LoginTests" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="unittest_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.home.login_tests.LoginTests&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in login_tests.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="unittest_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/home/login_tests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for login_tests.LoginTests.test_validLogin" />
+        <item itemvalue="Python tests.pytest for login_tests.LoginTests" />
+        <item itemvalue="Python tests.pytest in login_tests.py" />
+        <item itemvalue="Python tests.pytest for tests.home.login_tests.LoginTests" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -29,5 +144,65 @@
       <updated>1588590505387</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="128" key="#Log_Highlighting_(ideolog)" timestamp="1588592041888">
+      <screen x="68" y="23" width="1372" height="877" />
+    </state>
+    <state x="354" y="128" key="#Log_Highlighting_(ideolog)/68.23.1372.877@68.23.1372.877" timestamp="1588592041888" />
+    <state x="492" y="217" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588659973786">
+      <screen x="68" y="23" width="1372" height="877" />
+    </state>
+    <state x="492" y="217" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/68.23.1372.877@68.23.1372.877" timestamp="1588659973786" />
+    <state width="675" height="285" key="GridCell.Tab.0.bottom" timestamp="1588662666537">
+      <screen x="68" y="23" width="1372" height="877" />
+    </state>
+    <state width="675" height="285" key="GridCell.Tab.0.bottom/68.23.1372.877@68.23.1372.877" timestamp="1588662666537" />
+    <state width="675" height="285" key="GridCell.Tab.0.center" timestamp="1588662666536">
+      <screen x="68" y="23" width="1372" height="877" />
+    </state>
+    <state width="675" height="285" key="GridCell.Tab.0.center/68.23.1372.877@68.23.1372.877" timestamp="1588662666536" />
+    <state width="675" height="285" key="GridCell.Tab.0.left" timestamp="1588662666535">
+      <screen x="68" y="23" width="1372" height="877" />
+    </state>
+    <state width="675" height="285" key="GridCell.Tab.0.left/68.23.1372.877@68.23.1372.877" timestamp="1588662666535" />
+    <state width="675" height="285" key="GridCell.Tab.0.right" timestamp="1588662666536">
+      <screen x="68" y="23" width="1372" height="877" />
+    </state>
+    <state width="675" height="285" key="GridCell.Tab.0.right/68.23.1372.877@68.23.1372.877" timestamp="1588662666536" />
+    <state width="675" height="285" key="GridCell.Tab.1.bottom" timestamp="1588662666538">
+      <screen x="68" y="23" width="1372" height="877" />
+    </state>
+    <state width="675" height="285" key="GridCell.Tab.1.bottom/68.23.1372.877@68.23.1372.877" timestamp="1588662666538" />
+    <state width="675" height="285" key="GridCell.Tab.1.center" timestamp="1588662666538">
+      <screen x="68" y="23" width="1372" height="877" />
+    </state>
+    <state width="675" height="285" key="GridCell.Tab.1.center/68.23.1372.877@68.23.1372.877" timestamp="1588662666538" />
+    <state width="675" height="285" key="GridCell.Tab.1.left" timestamp="1588662666537">
+      <screen x="68" y="23" width="1372" height="877" />
+    </state>
+    <state width="675" height="285" key="GridCell.Tab.1.left/68.23.1372.877@68.23.1372.877" timestamp="1588662666537" />
+    <state width="675" height="285" key="GridCell.Tab.1.right" timestamp="1588662666538">
+      <screen x="68" y="23" width="1372" height="877" />
+    </state>
+    <state width="675" height="285" key="GridCell.Tab.1.right/68.23.1372.877@68.23.1372.877" timestamp="1588662666538" />
+    <state x="503" y="325" width="790" height="538" key="find.popup" timestamp="1588661780455">
+      <screen x="68" y="23" width="1372" height="877" />
+    </state>
+    <state x="503" y="325" width="790" height="538" key="find.popup/68.23.1372.877@68.23.1372.877" timestamp="1588661780455" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/home/login_tests.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

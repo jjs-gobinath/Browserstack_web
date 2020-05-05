@@ -9,7 +9,7 @@ Example:
 """
 import utilities.custom_logger as cl
 import logging
-from driver.selenium_driver import SeleniumDriver
+from base.selenium_driver import SeleniumDriver
 
 class TestStatus(SeleniumDriver):
 
