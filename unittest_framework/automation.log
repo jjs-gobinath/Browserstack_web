@@ -1,103 +1,188 @@
-05/04/2020 11:53:55 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
-05/04/2020 11:53:55 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
-05/04/2020 11:54:01 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
-05/04/2020 11:54:02 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-05/04/2020 11:54:02 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
-05/04/2020 11:54:02 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-05/04/2020 11:54:02 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
-05/04/2020 11:54:07 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
-05/05/2020 12:09:00 AM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
-05/05/2020 12:09:00 AM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
-05/05/2020 12:09:08 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
-05/05/2020 12:09:08 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-05/05/2020 12:09:08 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
-05/05/2020 12:09:08 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-05/05/2020 12:09:08 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
-05/05/2020 12:09:13 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
-05/05/2020 04:47:04 AM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
-05/05/2020 04:47:05 AM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
-05/05/2020 04:47:11 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
-05/05/2020 04:47:11 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-05/05/2020 04:47:11 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
-05/05/2020 04:47:11 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-05/05/2020 04:47:11 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
-05/05/2020 04:47:15 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
-05/05/2020 04:55:20 AM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
-05/05/2020 04:55:20 AM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
-05/05/2020 04:55:27 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
-05/05/2020 04:55:27 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-05/05/2020 04:55:27 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
-05/05/2020 04:55:27 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-05/05/2020 04:55:27 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
-05/05/2020 04:55:34 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
-05/05/2020 05:02:42 AM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
-05/05/2020 05:02:42 AM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
-05/05/2020 05:02:48 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
-05/05/2020 05:02:49 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-05/05/2020 05:02:49 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
-05/05/2020 05:02:49 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-05/05/2020 05:02:49 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
-05/05/2020 05:02:51 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
-05/05/2020 05:09:50 AM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
-05/05/2020 05:09:50 AM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
-05/05/2020 05:09:57 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
-05/05/2020 05:09:58 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-05/05/2020 05:09:58 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
-05/05/2020 05:09:58 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-05/05/2020 05:09:58 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
-05/05/2020 05:10:01 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
-05/05/2020 05:10:01 AM - LoginPage - INFO: Element found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
-05/05/2020 05:10:01 AM - LoginPage - INFO: Element Found
-05/05/2020 05:10:04 AM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
-05/05/2020 05:10:04 AM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
-05/05/2020 05:10:04 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
-05/05/2020 05:10:04 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-05/05/2020 05:10:04 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
-05/05/2020 05:10:04 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-05/05/2020 05:10:04 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
-05/05/2020 05:10:04 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
-05/05/2020 05:10:07 AM - LoginPage - INFO: Element not found with locator: //*[@id='navbar']//span[text()='User Settings'] and  locatorType: xpath
-05/05/2020 05:10:07 AM - LoginPage - INFO: Element not found
-05/05/2020 05:17:37 AM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
-05/05/2020 05:17:37 AM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
-05/05/2020 05:17:43 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
-05/05/2020 05:17:43 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-05/05/2020 05:17:43 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
-05/05/2020 05:17:43 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-05/05/2020 05:17:43 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
-05/05/2020 05:17:47 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
-05/05/2020 05:17:50 AM - LoginPage - INFO: Element not found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
-05/05/2020 05:17:50 AM - LoginPage - INFO: Element not found
-05/05/2020 05:17:53 AM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
-05/05/2020 05:17:53 AM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
-05/05/2020 05:17:53 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
-05/05/2020 05:17:53 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-05/05/2020 05:17:53 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
-05/05/2020 05:17:53 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-05/05/2020 05:17:53 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
-05/05/2020 05:17:53 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
-05/05/2020 05:17:56 AM - LoginPage - INFO: Element not found with locator: //*[@id='navbar']//span[text()='User Settings'] and  locatorType: xpath
-05/05/2020 05:17:56 AM - LoginPage - INFO: Element not found
-05/05/2020 05:24:23 AM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
-05/05/2020 05:24:23 AM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
-05/05/2020 05:24:32 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
-05/05/2020 05:24:32 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-05/05/2020 05:24:32 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
-05/05/2020 05:24:32 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-05/05/2020 05:24:32 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
-05/05/2020 05:24:36 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
-05/05/2020 05:24:39 AM - LoginPage - INFO: Element not found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
-05/05/2020 05:24:39 AM - LoginPage - INFO: Element not found
-05/05/2020 05:24:51 AM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
-05/05/2020 05:24:51 AM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
-05/05/2020 05:24:54 AM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
-05/05/2020 05:24:54 AM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
-05/05/2020 05:24:57 AM - LoginPage - INFO: Element not found with locator: user_password and  locatorType: id
-05/05/2020 05:24:57 AM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
-05/05/2020 05:25:00 AM - LoginPage - INFO: Element not found with locator: commit and  locatorType: name
-05/05/2020 05:25:00 AM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
-05/05/2020 05:25:00 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title Verified
-05/05/2020 05:25:03 AM - LoginPage - INFO: Element not found with locator: //*[@id='navbar']//span[text()='User Settings'] and  locatorType: xpath
-05/05/2020 05:25:03 AM - LoginPage - INFO: Element not found
-05/05/2020 05:25:03 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login was successful
-05/05/2020 05:25:03 AM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+05/06/2020 02:05:41 AM - LoginPage - INFO: Element not found
+05/06/2020 02:05:44 AM - LoginPage - INFO: Element not found with locator: Login and  locatorType: css
+05/06/2020 02:05:44 AM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: css
+05/06/2020 02:05:47 AM - LoginPage - INFO: Element not found with locator: .user-signout and  locatorType: css
+05/06/2020 02:05:47 AM - LoginPage - INFO: Cannot click on the element with locator: .user-signout locatorType: css
+05/06/2020 02:05:47 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+05/06/2020 02:05:47 AM - LoginPage - INFO: Element appeared on the web page
+05/06/2020 02:05:47 AM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+05/06/2020 02:05:47 AM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+05/06/2020 02:05:54 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+05/06/2020 02:05:54 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+05/06/2020 02:05:54 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+05/06/2020 02:05:54 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+05/06/2020 02:05:54 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+05/06/2020 02:06:03 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+05/06/2020 02:06:03 AM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+05/06/2020 02:06:03 AM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+05/06/2020 02:06:03 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+05/06/2020 02:06:03 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verification
+05/06/2020 02:06:03 AM - LoginPage - INFO: Element found with locator: .course-directory and  locatorType: css
+05/06/2020 02:06:03 AM - LoginPage - INFO: Element present with locator: .course-directory locatorType: css
+05/06/2020 02:06:03 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+05/06/2020 02:06:03 AM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+05/06/2020 02:06:03 AM - LoginPage - INFO: Element not found
+05/06/2020 02:06:10 AM - LoginPage - INFO: Element not found with locator: Login and  locatorType: css
+05/06/2020 02:06:10 AM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: css
+05/06/2020 02:06:10 AM - LoginPage - INFO: Element found with locator: .user-signout and  locatorType: css
+05/06/2020 02:06:13 AM - LoginPage - INFO: Cannot click on the element with locator: .user-signout locatorType: css
+05/06/2020 02:06:13 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+05/06/2020 02:06:27 AM - LoginPage - INFO: Element appeared on the web page
+05/06/2020 02:06:27 AM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+05/06/2020 02:06:27 AM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+05/06/2020 02:06:32 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+05/06/2020 02:06:32 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+05/06/2020 02:06:32 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+05/06/2020 02:06:32 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+05/06/2020 02:06:32 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+05/06/2020 02:06:35 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+05/06/2020 02:06:35 AM - LoginPage - INFO: Element found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+05/06/2020 02:06:35 AM - LoginPage - INFO: Element present with locator: //div[contains(text(),'Invalid email or password')] locatorType: xpath
+05/07/2020 01:48:12 AM - LoginPage - INFO: Element not found
+05/07/2020 01:48:15 AM - LoginPage - INFO: Element not found with locator: Login and  locatorType: css
+05/07/2020 01:48:15 AM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: css
+05/07/2020 01:48:18 AM - LoginPage - INFO: Element not found with locator: .user-signout and  locatorType: css
+05/07/2020 01:48:18 AM - LoginPage - INFO: Cannot click on the element with locator: .user-signout locatorType: css
+05/07/2020 01:48:18 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+05/07/2020 01:48:18 AM - LoginPage - INFO: Element appeared on the web page
+05/07/2020 01:48:18 AM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+05/07/2020 01:48:19 AM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+05/07/2020 01:48:25 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+05/07/2020 01:48:25 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+05/07/2020 01:48:25 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+05/07/2020 01:48:25 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+05/07/2020 01:48:25 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+05/07/2020 01:48:28 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+05/07/2020 01:48:31 AM - LoginPage - INFO: Element not found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+05/07/2020 01:48:31 AM - LoginPage - INFO: Element not present with locator: //div[contains(text(),'Invalid email or password')] locatorType: xpath
+05/07/2020 01:48:31 AM - LoginPage - INFO: Element not found
+05/07/2020 01:48:34 AM - LoginPage - INFO: Element not found with locator: Login and  locatorType: css
+05/07/2020 01:48:34 AM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: css
+05/07/2020 01:48:43 AM - LoginPage - INFO: Element not found with locator: .user-signout and  locatorType: css
+05/07/2020 01:48:43 AM - LoginPage - INFO: Cannot click on the element with locator: .user-signout locatorType: css
+05/07/2020 01:48:43 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+05/07/2020 01:48:54 AM - LoginPage - INFO: Element not appeared on the web page
+05/07/2020 01:48:57 AM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+05/07/2020 01:48:57 AM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+05/07/2020 01:48:57 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+05/07/2020 01:48:57 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+05/07/2020 01:48:57 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+05/07/2020 01:48:57 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+05/07/2020 01:48:57 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+05/07/2020 01:49:02 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+05/07/2020 01:49:02 AM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+05/07/2020 01:49:02 AM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+05/07/2020 01:49:02 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+05/07/2020 01:49:02 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verification
+05/07/2020 01:49:05 AM - LoginPage - INFO: Element not found with locator: .course-directory and  locatorType: css
+05/07/2020 01:49:05 AM - LoginPage - INFO: Element not present with locator: .course-directory locatorType: css
+05/07/2020 01:49:05 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login Verification
+05/07/2020 01:49:05 AM - TestStatus - INFO: Screenshot save to directory: /Users/gobinathramalingam/Documents/GitHub/Browserstack_web/unittest_framework/base/../screenshots/Login Verification.1588841345433.png
+05/07/2020 01:49:05 AM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+05/07/2020 01:49:38 AM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+05/07/2020 01:49:38 AM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+05/07/2020 01:49:44 AM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
+05/07/2020 01:49:44 AM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
+05/07/2020 01:49:47 AM - LoginPage - INFO: Element not found with locator: user_password and  locatorType: id
+05/07/2020 01:49:47 AM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
+05/07/2020 01:49:50 AM - LoginPage - INFO: Element not found with locator: commit and  locatorType: name
+05/07/2020 01:49:50 AM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+05/07/2020 01:49:53 AM - LoginPage - INFO: Element not found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+05/07/2020 01:49:53 AM - LoginPage - INFO: Element not present with locator: //div[contains(text(),'Invalid email or password')] locatorType: xpath
+05/07/2020 01:49:56 AM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+05/07/2020 01:49:56 AM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+05/07/2020 01:49:56 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+05/07/2020 01:49:56 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+05/07/2020 01:49:56 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+05/07/2020 01:49:56 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+05/07/2020 01:49:56 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+05/07/2020 01:49:58 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+05/07/2020 01:49:58 AM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+05/07/2020 01:49:58 AM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+05/07/2020 01:49:58 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+05/07/2020 01:49:58 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verification
+05/07/2020 01:50:01 AM - LoginPage - INFO: Element not found with locator: .course-directory and  locatorType: css
+05/07/2020 01:50:01 AM - LoginPage - INFO: Element not present with locator: .course-directory locatorType: css
+05/07/2020 01:50:01 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login Verification
+05/07/2020 01:50:02 AM - TestStatus - INFO: Screenshot save to directory: /Users/gobinathramalingam/Documents/GitHub/Browserstack_web/unittest_framework/base/../screenshots/Login Verification.1588841401890.png
+05/07/2020 01:50:02 AM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+05/07/2020 01:50:37 AM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+05/07/2020 01:50:37 AM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+05/07/2020 01:50:45 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+05/07/2020 01:50:45 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+05/07/2020 01:50:45 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+05/07/2020 01:50:45 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+05/07/2020 01:50:45 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+05/07/2020 01:50:47 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+05/07/2020 01:50:49 AM - LoginPage - INFO: Element found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+05/07/2020 01:50:49 AM - LoginPage - INFO: Element present with locator: //div[contains(text(),'Invalid email or password')] locatorType: xpath
+05/07/2020 01:50:52 AM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+05/07/2020 01:50:52 AM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+05/07/2020 01:50:52 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+05/07/2020 01:50:52 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+05/07/2020 01:50:52 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+05/07/2020 01:50:52 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+05/07/2020 01:50:52 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+05/07/2020 01:50:56 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+05/07/2020 01:50:56 AM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+05/07/2020 01:50:56 AM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+05/07/2020 01:50:56 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+05/07/2020 01:50:56 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verification
+05/07/2020 01:50:59 AM - LoginPage - INFO: Element not found with locator: .course-directory and  locatorType: css
+05/07/2020 01:50:59 AM - LoginPage - INFO: Element not present with locator: .course-directory locatorType: css
+05/07/2020 01:50:59 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login Verification
+05/07/2020 01:50:59 AM - TestStatus - INFO: Screenshot save to directory: /Users/gobinathramalingam/Documents/GitHub/Browserstack_web/unittest_framework/base/../screenshots/Login Verification.1588841459042.png
+05/07/2020 01:50:59 AM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+05/07/2020 01:52:42 AM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+05/07/2020 01:52:42 AM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+05/07/2020 01:52:48 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+05/07/2020 01:52:48 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+05/07/2020 01:52:48 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+05/07/2020 01:52:48 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+05/07/2020 01:52:48 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+05/07/2020 01:52:52 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+05/07/2020 01:52:52 AM - LoginPage - INFO: Element found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+05/07/2020 01:52:52 AM - LoginPage - INFO: Element present with locator: //div[contains(text(),'Invalid email or password')] locatorType: xpath
+05/07/2020 01:52:55 AM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+05/07/2020 01:52:55 AM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+05/07/2020 01:52:55 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+05/07/2020 01:52:56 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+05/07/2020 01:52:56 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+05/07/2020 01:52:56 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+05/07/2020 01:52:56 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+05/07/2020 01:52:59 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+05/07/2020 01:52:59 AM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+05/07/2020 01:52:59 AM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+05/07/2020 01:52:59 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+05/07/2020 01:52:59 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verification
+05/07/2020 01:53:02 AM - LoginPage - INFO: Element not found with locator: .course-directory and  locatorType: css
+05/07/2020 01:53:02 AM - LoginPage - INFO: Element not present with locator: .course-directory locatorType: css
+05/07/2020 01:53:02 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login Verification
+05/07/2020 01:53:02 AM - TestStatus - INFO: Screenshot save to directory: /Users/gobinathramalingam/Documents/GitHub/Browserstack_web/unittest_framework/base/../screenshots/Login Verification.1588841582463.png
+05/07/2020 01:53:02 AM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+05/07/2020 01:54:11 AM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+05/07/2020 01:54:11 AM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+05/07/2020 01:54:17 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+05/07/2020 01:54:17 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+05/07/2020 01:54:18 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+05/07/2020 01:54:18 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+05/07/2020 01:54:18 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+05/07/2020 01:54:22 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+05/07/2020 01:54:22 AM - LoginPage - INFO: Element found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+05/07/2020 01:54:22 AM - LoginPage - INFO: Element present with locator: //div[contains(text(),'Invalid email or password')] locatorType: xpath
+05/07/2020 01:54:25 AM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+05/07/2020 01:54:25 AM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+05/07/2020 01:54:25 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+05/07/2020 01:54:25 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+05/07/2020 01:54:25 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+05/07/2020 01:54:25 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+05/07/2020 01:54:25 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+05/07/2020 01:54:33 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+05/07/2020 01:54:33 AM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+05/07/2020 01:54:33 AM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+05/07/2020 01:54:33 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+05/07/2020 01:54:33 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verification
+05/07/2020 01:54:33 AM - LoginPage - INFO: Element found with locator: .course-directory and  locatorType: css
+05/07/2020 01:54:33 AM - LoginPage - INFO: Element present with locator: .course-directory locatorType: css
+05/07/2020 01:54:33 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+05/07/2020 01:54:33 AM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL

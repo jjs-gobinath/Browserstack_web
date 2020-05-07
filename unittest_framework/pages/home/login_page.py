@@ -1,8 +1,8 @@
-from base.selenium_driver import SeleniumDriver
 import utilities.custom_logger as cl
 import logging
+from base.basepage import BasePage
 
-class LoginPage(SeleniumDriver):
+class LoginPage(BasePage):
 
     log = cl.customLogger(logging.DEBUG)
 
@@ -15,9 +15,12 @@ class LoginPage(SeleniumDriver):
     _email_field = "user_email"
     _password_field = "user_password"
     _login_button = "commit"
+    _menu = ".gravatar"
+    _signout = ".user-signout"
 
     def clickLoginLink(self):
         self.elementClick(self._login_link, locatorType="link")
+
 
     def enterEmail(self, email):
         self.sendKeys(email, self._email_field)
@@ -35,8 +38,8 @@ class LoginPage(SeleniumDriver):
         self.clickLoginButton()
 
     def verifyLoginSuccessful(self):
-        result = self.isElementPresent("//*[@id='navbar']//span[text()='User Settings']",
-                                       locatorType="xpath")
+        result = self.isElementPresent(".course-directory",
+                                       locatorType="css")
         return result
 
     def verifyLoginFailed(self):
@@ -44,8 +47,5 @@ class LoginPage(SeleniumDriver):
                                        locatorType="xpath")
         return result
 
-    def verifyTitle(self):
-        if "Google" in self.getTitle():
-            return True
-        else:
-            return False
+    def verifyLoginTitle(self):
+        return self.verifyPageTitle("Let's Kode It")
