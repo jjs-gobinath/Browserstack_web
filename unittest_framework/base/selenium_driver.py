@@ -235,3 +235,15 @@ class SeleniumDriver():
         if direction == "down":
             # Scroll Down
             self.driver.execute_script("window.scrollBy(0, 1000);")
+
+    def swithToFrame(self, framename = ''):
+        self.driver.switch_to.frame(framename)
+        # Switch to frame using name
+        # driver.switch_to.frame("iframe-name")
+
+        # Switch to frame using numbers
+        # driver.switch_to.frame(0)
+
+    def switchToDefault(self):
+        # Switch back to the parent frame
+        self.driver.switch_to.default_content()

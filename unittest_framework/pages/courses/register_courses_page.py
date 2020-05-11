@@ -13,41 +13,54 @@ class RegisterCoursePage(BasePage):
     #locators
     _search_box = "search-courses"
     #_course = ""
-    _all_courses = "row course-list list"
+    _all_courses = "//div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')]"#xpath
     _enroll_button = "enroll-button"
     _cc_num = "//*[@class='CardNumberField-input-wrapper']/span/input"
     _cc_exp = "//*[@name='exp-date']"
     _cc_cvv = "//*[@name='cvc']"
     _postal = "//*[@name='postal']"
     _submit_enroll = "confirm-purchase"
+    _agreement = "agreed_to_terms_checkbox"#ID
     _enroll_error_message = "//*[@class = 'payment-error-box only-on-mobile']/span"
 
     #4578 4562 5643 9173
     #12/22
     #123
     #641
+    #iframe[name = '__privateStripeFrame6']
+    #iframe[name = '__privateStripeFrame8']
 
     def enterCourseName(self, name):
         self.sendKeys(name, self._search_box)
 
-    def selectCourseToEnroll(self, fullCourseName):
-        listOfCourse = self.getElementList(self._all_courses,'class')
-        self.elementClick(element=listOfCourse[0])
+    def selectCourseToEnroll(self):
+        self.elementClick(locator=self._all_courses, locatorType="xpath")
 
     def enterCardNum(self, num):
-        self.sendKeys(num,self._cc_num,'xpath')
+        self.swithToFrame("__privateStripeFrame8")
+        ls = list(num)
+        for x in ls:
+            self.sendKeys(x,self._cc_num, 'xpath')
+        self.switchToDefault()
 
     def enterCardExp(self, exp):
+        self.swithToFrame("__privateStripeFrame9")
         self.sendKeys(exp, self._cc_exp, 'xpath')
+        self.switchToDefault()
 
     def enterCardCVV(self, cvv):
+        self.swithToFrame("__privateStripeFrame10")
         self.sendKeys(cvv, self._cc_cvv, 'xpath')
+        self.switchToDefault()
 
     def enterPincode(self, pincode):
+        self.swithToFrame("__privateStripeFrame11")
         self.sendKeys(pincode, self._postal, 'xpath')
+        self.switchToDefault()
 
     def clickEnrollSubmitButton(self):
-        self.elementClick(element=self._submit_enroll)
+        self.elementClick(self._agreement)
+        self.elementClick(self._submit_enroll)
 
     def enterCreditCardInformation(self, num, exp, cvv, pin):
         self.enterCardNum(num)
@@ -55,31 +68,14 @@ class RegisterCoursePage(BasePage):
         self.enterCardCVV(cvv)
         self.enterPincode(pin)
 
-    def enrollCourse(self, num="", exp="", cvv=""):
-        
-        Hint:
 
-    • Click
-    on
-    the
-    enroll
-    button
-    • Scroll
-    down
-    • Enter
-    credit
-    card
-    information
-    • Click
-    Enroll in course
-    button
+    def enrollCourse(self, num="", exp="", cvv="", pin=""):
+        self.elementClick(self._enroll_button)
+        self.webScroll('down')
+        self.enterCreditCardInformation(num,exp,cvv,pin)
+        self.clickEnrollSubmitButton()
 
     def verifyEnrollFailed(self):
-        Verify
-        the
-        element
-        for error    message is displayed, not just present.
-You	need	to	verify	if	it	is	displayed
-Hint:	The	element	is	not	instantly	displayed,	it	take	some	time
-to	display
-You	need	to	wait	for	it	to	display
+        self.waitForElement(self._enroll_error_message,'xpath',40,2)
+        x = self.getElement(self._enroll_error_message,'xpath')
+        print(x.text)

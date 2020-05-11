@@ -2,21 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e3514dc-914d-4635-aaf9-a204969755cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/courses/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/courses/register_courses_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Login Verification.1588841345433.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Login Verification.1588841401890.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Login Verification.1588841459042.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Login Verification.1588841582463.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Login Verification.1589170721923.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Login Verification.1589171877071.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/courses/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/courses/automation.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/courses/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/courses/register_courses_tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/automation.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/base/selenium_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/selenium_driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/base/basepage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/home/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/login_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/home/login_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/home/login_tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities/teststatus.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/teststatus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/courses/register_courses_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/courses/register_courses_page.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +41,12 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages/courses" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/courses" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/courses" />
       <recent name="$PROJECT_DIR$/pages/courses" />
       <recent name="$PROJECT_DIR$/utilities" />
       <recent name="$PROJECT_DIR$/tests" />
@@ -63,7 +60,7 @@
       <recent name="$PROJECT_DIR$/pages" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for login_tests.LoginTests.test_validLogin">
+  <component name="RunManager" selected="Python tests.pytest for register_courses_tests.RegisterCourseTests.test_invalidEnrollment">
     <configuration name="pytest for login_tests.LoginTests" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="unittest_framework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,18 +91,33 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for tests.home.login_tests.LoginTests" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for register_courses_tests.RegisterCourseTests" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="unittest_framework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/home" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/courses" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tests.home.login_tests.LoginTests&quot;" />
+      <option name="_new_target" value="&quot;register_courses_tests.RegisterCourseTests&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for register_courses_tests.RegisterCourseTests.test_invalidEnrollment" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="unittest_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/courses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;register_courses_tests.RegisterCourseTests.test_invalidEnrollment&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -126,10 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for register_courses_tests.RegisterCourseTests.test_invalidEnrollment" />
+        <item itemvalue="Python tests.pytest for register_courses_tests.RegisterCourseTests" />
         <item itemvalue="Python tests.pytest for login_tests.LoginTests.test_validLogin" />
         <item itemvalue="Python tests.pytest for login_tests.LoginTests" />
         <item itemvalue="Python tests.pytest in login_tests.py" />
-        <item itemvalue="Python tests.pytest for tests.home.login_tests.LoginTests" />
       </list>
     </recent_temporary>
   </component>
@@ -158,42 +171,50 @@
       <screen x="68" y="23" width="1372" height="877" />
     </state>
     <state x="492" y="217" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/68.23.1372.877@68.23.1372.877" timestamp="1588659973786" />
-    <state width="1351" height="285" key="GridCell.Tab.0.bottom" timestamp="1588753831842">
+    <state x="506" y="315" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1589170137168">
       <screen x="68" y="23" width="1372" height="877" />
     </state>
-    <state width="1351" height="285" key="GridCell.Tab.0.bottom/68.23.1372.877@68.23.1372.877" timestamp="1588753831842" />
-    <state width="1351" height="285" key="GridCell.Tab.0.center" timestamp="1588753831840">
+    <state x="506" y="315" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/68.23.1372.877@68.23.1372.877" timestamp="1589170137168" />
+    <state width="1351" height="285" key="GridCell.Tab.0.bottom" timestamp="1589171086968">
       <screen x="68" y="23" width="1372" height="877" />
     </state>
-    <state width="1351" height="285" key="GridCell.Tab.0.center/68.23.1372.877@68.23.1372.877" timestamp="1588753831840" />
-    <state width="1351" height="285" key="GridCell.Tab.0.left" timestamp="1588753831839">
+    <state width="1351" height="285" key="GridCell.Tab.0.bottom/68.23.1372.877@68.23.1372.877" timestamp="1589171086968" />
+    <state width="1351" height="285" key="GridCell.Tab.0.center" timestamp="1589171086967">
       <screen x="68" y="23" width="1372" height="877" />
     </state>
-    <state width="1351" height="285" key="GridCell.Tab.0.left/68.23.1372.877@68.23.1372.877" timestamp="1588753831839" />
-    <state width="1351" height="285" key="GridCell.Tab.0.right" timestamp="1588753831841">
+    <state width="1351" height="285" key="GridCell.Tab.0.center/68.23.1372.877@68.23.1372.877" timestamp="1589171086967" />
+    <state width="1351" height="285" key="GridCell.Tab.0.left" timestamp="1589171086965">
       <screen x="68" y="23" width="1372" height="877" />
     </state>
-    <state width="1351" height="285" key="GridCell.Tab.0.right/68.23.1372.877@68.23.1372.877" timestamp="1588753831841" />
-    <state width="1351" height="285" key="GridCell.Tab.1.bottom" timestamp="1588753831844">
+    <state width="1351" height="285" key="GridCell.Tab.0.left/68.23.1372.877@68.23.1372.877" timestamp="1589171086965" />
+    <state width="1351" height="285" key="GridCell.Tab.0.right" timestamp="1589171086967">
       <screen x="68" y="23" width="1372" height="877" />
     </state>
-    <state width="1351" height="285" key="GridCell.Tab.1.bottom/68.23.1372.877@68.23.1372.877" timestamp="1588753831844" />
-    <state width="1351" height="285" key="GridCell.Tab.1.center" timestamp="1588753831842">
+    <state width="1351" height="285" key="GridCell.Tab.0.right/68.23.1372.877@68.23.1372.877" timestamp="1589171086967" />
+    <state width="1351" height="285" key="GridCell.Tab.1.bottom" timestamp="1589171086971">
       <screen x="68" y="23" width="1372" height="877" />
     </state>
-    <state width="1351" height="285" key="GridCell.Tab.1.center/68.23.1372.877@68.23.1372.877" timestamp="1588753831842" />
-    <state width="1351" height="285" key="GridCell.Tab.1.left" timestamp="1588753831842">
+    <state width="1351" height="285" key="GridCell.Tab.1.bottom/68.23.1372.877@68.23.1372.877" timestamp="1589171086971" />
+    <state width="1351" height="285" key="GridCell.Tab.1.center" timestamp="1589171086970">
       <screen x="68" y="23" width="1372" height="877" />
     </state>
-    <state width="1351" height="285" key="GridCell.Tab.1.left/68.23.1372.877@68.23.1372.877" timestamp="1588753831842" />
-    <state width="1351" height="285" key="GridCell.Tab.1.right" timestamp="1588753831843">
+    <state width="1351" height="285" key="GridCell.Tab.1.center/68.23.1372.877@68.23.1372.877" timestamp="1589171086970" />
+    <state width="1351" height="285" key="GridCell.Tab.1.left" timestamp="1589171086969">
       <screen x="68" y="23" width="1372" height="877" />
     </state>
-    <state width="1351" height="285" key="GridCell.Tab.1.right/68.23.1372.877@68.23.1372.877" timestamp="1588753831843" />
+    <state width="1351" height="285" key="GridCell.Tab.1.left/68.23.1372.877@68.23.1372.877" timestamp="1589171086969" />
+    <state width="1351" height="285" key="GridCell.Tab.1.right" timestamp="1589171086970">
+      <screen x="68" y="23" width="1372" height="877" />
+    </state>
+    <state width="1351" height="285" key="GridCell.Tab.1.right/68.23.1372.877@68.23.1372.877" timestamp="1589171086970" />
     <state x="503" y="325" width="790" height="538" key="find.popup" timestamp="1588753285756">
       <screen x="68" y="23" width="1372" height="877" />
     </state>
     <state x="503" y="325" width="790" height="538" key="find.popup/68.23.1372.877@68.23.1372.877" timestamp="1588753285756" />
+    <state x="419" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1589174118583">
+      <screen x="68" y="23" width="1372" height="877" />
+    </state>
+    <state x="419" y="213" width="670" height="676" key="search.everywhere.popup/68.23.1372.877@68.23.1372.877" timestamp="1589174118583" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -202,6 +223,11 @@
           <url>file://$PROJECT_DIR$/tests/home/login_tests.py</url>
           <line>16</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/courses/register_courses_tests.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
